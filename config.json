@@ -78,9 +78,9 @@
         "mail": {
             "enabled": true,
             "secrets": "MAIL_KEY",
-            "address": "firmianay@163.com",
-            "server": "smtp.163.com",
-            "receiver": ["2419110059@qq.com"],
+            "address": "secret16bit@qq.com",
+            "server": "smtp.qq.com",
+            "receiver": ["secret16bit@qq.com"],
             "key": "xxxxxxxxxx"
         }
     }
